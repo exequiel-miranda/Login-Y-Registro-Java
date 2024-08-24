@@ -27,15 +27,22 @@ Luego, en el modelo, la clase de conexión y una clase para la tabla usuarios po
 Dentro de esta clase, seguimos los tres pasos:</br>
 ![image](https://github.com/user-attachments/assets/f35c3fb8-d5ac-4067-9d2d-072fc4c83452)
 ![image](https://github.com/user-attachments/assets/7536d892-3dfc-47e5-8f4f-2cd692b062a4)
-Y 3- Los metodos, los cuales pondremos el metodo de GuardarUsuario
+</br> Y 3- Los metodos, los cuales pondremos el metodo de GuardarUsuario
 ![image](https://github.com/user-attachments/assets/2aefdaa8-b032-4a58-addd-e08bb6ad6b6c)
-y el método de iniciarSesion
+y el método de iniciarSesion</br>
 ![image](https://github.com/user-attachments/assets/14facfad-d19d-4094-ac44-2f76510d10ec)
 
-Para el paquete "Controlador", tenemos que hacer una clase controlador para el Login y otra para el Registro de usuarios
+Para el paquete "Controlador", tenemos que hacer una clase controlador para el Login y otra para el Registro de usuarios</br>
 ![image](https://github.com/user-attachments/assets/f8dae530-f21a-4249-a808-43a0b246458b)
 
+## Controlador de la pantalla del Login:</br>
+![image](https://github.com/user-attachments/assets/cb863735-66fd-4d6a-b687-a1145c8dfb74)
+![image](https://github.com/user-attachments/assets/82577278-266f-42b8-b6cc-4f3677c7147a)
 
+
+## Controlador de la pantalla de Registro</br>
+![image](https://github.com/user-attachments/assets/c700273b-555e-412f-baf5-8cb82882964a)
+![image](https://github.com/user-attachments/assets/603d9e3a-69a0-4c34-9ef7-7fc1c1819bdc)
 
 
 
