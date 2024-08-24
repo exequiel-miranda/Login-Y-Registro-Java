@@ -24,13 +24,16 @@ Pantalla de Login y registro:</br>
 Luego, en el modelo, la clase de conexión y una clase para la tabla usuarios por que es la unica tabla que se usa para el login y registro
 ![image](https://github.com/user-attachments/assets/459b2f1d-7c1a-47bc-9f8b-f0826be901fc)
 
-Dentro de esta clase, seguimos los tres pasos:
+Dentro de esta clase, seguimos los tres pasos:</br>
 ![image](https://github.com/user-attachments/assets/f35c3fb8-d5ac-4067-9d2d-072fc4c83452)
 ![image](https://github.com/user-attachments/assets/7536d892-3dfc-47e5-8f4f-2cd692b062a4)
-Y 3- Los metodos, los cuales pondremos el metodo de Guardarusuario
+Y 3- Los metodos, los cuales pondremos el metodo de GuardarUsuario
 ![image](https://github.com/user-attachments/assets/2aefdaa8-b032-4a58-addd-e08bb6ad6b6c)
 y el método de iniciarSesion
 ![image](https://github.com/user-attachments/assets/14facfad-d19d-4094-ac44-2f76510d10ec)
+
+Para el paquete "Controlador", tenemos que hacer una clase controlador para el Login y otra para el Registro de usuarios
+![image](https://github.com/user-attachments/assets/f8dae530-f21a-4249-a808-43a0b246458b)
 
 
 
