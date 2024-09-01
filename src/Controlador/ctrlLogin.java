@@ -25,7 +25,7 @@ public class ctrlLogin implements MouseListener {
     public void mouseClicked(MouseEvent e) {
         if (e.getSource() == vista.btnIngresar) {
             modelo.setCorreo(vista.txtCorreo.getText());
-            modelo.setContraseña(vista.txtContraseña.getText());
+            modelo.setContraseña(modelo.convertirSHA256(vista.txtContraseña.getText()));
 
             //Creo una variable llamada "comprobar" 
             //que guardará el resultado de ejecutar el metodo iniciarSesion()            

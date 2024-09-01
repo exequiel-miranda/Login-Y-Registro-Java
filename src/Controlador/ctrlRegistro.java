@@ -28,7 +28,7 @@ public class ctrlRegistro implements MouseListener{
         if(e.getSource() == vista.btnRegistrarme){
             modelo.setNombre(vista.txtNombre.getText());
             modelo.setCorreo(vista.txtCorreo.getText());
-            modelo.setContraseña(vista.txtContraseña.getText());
+            modelo.setContraseña(modelo.convertirSHA256(vista.txtContraseña.getText()));
             
             modelo.GuardarUsuario();
             
